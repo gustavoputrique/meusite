@@ -1,0 +1,11 @@
+body {
+    color:white
+    background- black;
+}
+
+ ul {
+    display: flex;
+    justify-content: space-between;
+    
+
+ }
